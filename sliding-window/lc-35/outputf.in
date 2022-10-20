@@ -1,0 +1,21 @@
+right: 0
+left : 0
+key: a val : 0
+length: 1
+
+right: 1
+left : 0
+key: b val : 1
+length: 2
+
+right: 2
+left : 2
+key: b val : 2
+length: 2
+
+right: 3
+left : 2
+key: a val : 3
+length: 2
+
+length : 2
